@@ -26,5 +26,5 @@ The project consists of:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/terraform-url-shortener.git
+git clone https://github.com/Shraddha-Modhera/terraform-url-shortener.git
 cd terraform-url-shortener
